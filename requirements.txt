@@ -1,0 +1,7 @@
+whitenoise
+gunicorn
+djangorestframework
+# psycopg2
+psycopg2-binary
+Django
+django-debug-toolbar
