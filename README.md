@@ -1,7 +1,7 @@
 # WEB APP DATA VISUALIZATION PROJECT 
 
 <h2>Description</h2>
-I collaborated with other developers during devHacks2024 to produce a website taht collects user data and displays it ,such that its easy to use and understand  
+I collaborated with other developers during devHacks2024 to produce a website taht collects user data and displays it in a way  that its easy to use and understand  
 <br />
 
 
